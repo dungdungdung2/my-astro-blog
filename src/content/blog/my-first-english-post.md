@@ -2,7 +2,6 @@
 title: 'I Stopped Following Old Maps: 3 Ways to Navigate the Tides of Modern Direct Selling'
 description: 'In an era of uncertainty, traditional business maps are obsolete. Discover three powerful navigation skills—reading the currents, building a loyal crew, and learning from legendary captains—to succeed in the modern direct selling industry.'
 pubDate: '2025-07-05'
-heroImage: '/placeholder-social.jpg'
 ---
 
 ### A Navigator's Introduction: What Sea Are You Sailing?
