@@ -1,49 +1,45 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import Layout from '../layouts/BlogPost.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1>koctogame blog</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This
-				template serves as a lightweight, minimally-styled starting point for anyone looking to build
-				a personal website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
-		</main>
-		<Footer />
-	</body>
-</html>
+<Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+	<main>
+		<div style="text-align: center; margin-bottom: 2rem;">
+				<h2 style="font-size: 1.5rem; font-weight: 600;">Do you love Korea? If so, you'll want to pay attention.</h2>
+		</div>
+
+		<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center; margin-bottom: 2rem;">
+				What if the toothbrush, detergent, and cosmetics you use every day started paying you a salary?
+		</h1>
+
+		<p>From the moment you open your eyes in the morning until you fall asleep at night, you are consuming. It's a lifelong cycle. Have you ever stopped to consider if there's a better, smarter way to do it?</p>
+
+		<blockquote style="border-left: 4px solid #ccc; padding-left: 1rem; margin-left: 0; font-style: italic;">
+				"I can't use anything else."<br>
+				"I've been using only this for over 10 years."
+		</blockquote>
+
+		<p>Without a single ad or fancy packaging, some people remain loyal to one product for over a decade or two. What does this phenomenon, created voluntarily by some of the world's most discerning consumers in Korea, truly signify?</p>
+
+		<h3 style="font-size: 1.75rem; font-weight: bold; margin-top: 2rem;">KoctoGame begins with this 'real experience'.</h3>
+
+		<p>We are not asking you to buy something new. Instead, we propose a way to transform your existing daily expenses into your <strong>smartest source of income</strong>.</p>
+
+		<ul>
+				<li><strong>A Difference in Quality:</strong> An unparalleled product performance that makes you forget all others after a single use.</li>
+				<li><strong>A Difference in Benefits:</strong> The distribution profits that once went to sellers are now returned directly to you, the consumer.</li>
+				<li><strong>A Difference in Opportunity:</strong> A new possibility that begins simply by sharing a great product you've experienced first-hand.</li>
+		</ul>
+
+		<p>This isn't a story you've never heard before. It's the most common-sense story of changing the paradigm of consumption that was already in your bathroom, your kitchen, and on your vanity.</p>
+
+		<h3 style="font-size: 1.75rem; font-weight: bold; margin-top: 2rem; text-align: center;">Curious how your daily consumption can become your income?</h3>
+
+		<div style="text-align: center; margin-top: 1.5rem;">
+				<a href="https://www.koctogame.com/about/" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; margin-right: 10px;">Learn About Our Philosophy</a>
+				<a href="https://www.koctogame.com/blog/" style="text-decoration: none; background-color: #6c757d; color: white; padding: 10px 20px; border-radius: 5px;">Become the Smartest Consumer</a>
+		</div>
+
+	</main>
+</Layout>
