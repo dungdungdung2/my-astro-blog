@@ -80,24 +80,28 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 					<slot />
 				</div>
 			</article>
-			<hr style="margin: 3rem 0;" />
-			<h3>Comments</h3>
-			<div class="giscus"></div>
-			<script src="https://giscus.app/client.js"
-							data-repo="dungdungdung2/my-astro-blog"
-							data-repo-id="R_kgDOPG3TXw"
-							data-category="Comments"
-							data-category-id="DIC_kwDOPG3TX84Csk0A"
-							data-mapping="pathname"
-							data-strict="0"
-							data-reactions-enabled="1"
-							data-emit-metadata="0"
-							data-input-position="top"
-							data-theme="light"
-							data-lang="en"
-							crossorigin="anonymous"
-							async>
-			</script>
+			{Astro.url.pathname.includes('/blog/') && (
+				<>
+					<hr style="margin: 3rem 0;" />
+					<h3>Comments</h3>
+					<div class="giscus"></div>
+					<script src="https://giscus.app/client.js"
+									data-repo="dungdungdung2/my-astro-blog"
+									data-repo-id="R_kgDOPG3TXw"
+									data-category="Comments"
+									data-category-id="DIC_kwDOPG3TX84Csk0A"
+									data-mapping="pathname"
+									data-strict="0"
+									data-reactions-enabled="1"
+									data-emit-metadata="0"
+									data-input-position="top"
+									data-theme="light"
+									data-lang="en"
+									crossorigin="anonymous"
+									async>
+					</script>
+				</>
+			)}
 		</main>
 		<Footer />
 	</body>
