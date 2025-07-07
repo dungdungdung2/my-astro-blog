@@ -6,7 +6,7 @@ pubDate: "2025-07-08"
 
 I hope this story finds only those who love Korea, or those who are searching for a truth that feels real. I suspect many who read this may not believe it. And that’s okay... For the last 30 years, this has been my reality. Today, I will share a small part of it.
 
-![A shocking photo of a severely inflamed and swollen foot, indicative of a serious infection.](/diabetes-story/1-diabetic-foot-infection-2018.jpg "The 2018 photo of my foot, on the verge of amputation.")
+![A shocking photo of a severely inflamed and swollen foot, indicative of a serious infection.](/diabetes-story/diabetic-foot-infection-2018.jpg "The 2018 photo of my foot, on the verge of amputation.")
 
 In April 2018, lying in a hospital bed, I heard words from my doctor that felt utterly unreal: "You need to be prepared to have your toe amputated."
 
@@ -16,9 +16,9 @@ And I had proof of that reality right on my own body. The toe in question, on my
 
 The cause of this catastrophe was... almost comically trivial.
 
-![A 2018 medical chart showing a diagnosis of 'Cellulitis, foot, Rt.' and 'R/O DM foot,' with photos of the infected foot.](/diabetes-story/2-medical-chart-cellulitis-diagnosis-2018.jpg "The official diagnosis: Cellulitis and Diabetic Foot. The cause was a tiny, unnoticed scrape.")
+![A 2018 medical chart showing a diagnosis of 'Cellulitis, foot, Rt.' and 'R/O DM foot,' with photos of the infected foot.](/diabetes-story/medical-chart-cellulitis-diagnosis-2018.jpg "The official diagnosis: Cellulitis and Diabetic Foot. The cause was a tiny, unnoticed scrape.")
 
-A few days before being hospitalized, I had lightly bumped the front of my toe while wearing socks. It was so minor I can't even recall where it happened. The problem was what I did next... I went to a public bathhouse, completely unaware that the tiny friction had likely created a microscopic break in my skin.
+A few days before being hospitalized, I had lightly bumped the front of my toe while wearing socks. It was so minor I can't even recall where it happened. The problem was what I did next... I went to a public bathhouse, completely unaware that the tiny, insignificant friction had likely created a microscopic break in my skin.
 
 For a healthy person, this would be of no consequence. But for someone with a blood sugar level consistently in the 300s-400s, it's an open invitation for disaster. The warm waters became an incubator for bacteria. The pain began subtly that evening. Had I just applied a simple antiseptic then... none of this would have happened. But I was arrogant. I thought, "It will be fine."
 
@@ -34,13 +34,13 @@ To me, in my 20s, "diabetes" was an abstraction. I assumed the doctor was just t
 
 I took the test. The strip turned nearly black. I couldn't believe it. I tested again... and again. The result was the same. It was a shock... but not enough to change me. I was young, and I didn't understand the devastating power of this disease.
 
-So, I continued my life. Two packs of cigarettes a day... and endless nights of drinking with friends. I had no idea that for a diabetic, alcohol is like pouring gasoline on a fire.
+So, I continued my life. Two packs of cigarettes a day... and endless nights of drinking with friends. In Korea, soju is the common drink. I had no idea that for a diabetic, alcohol is like pouring gasoline on a fire.
 
 ![An illustrative caricature of a bottle of Chamisul, a popular Korean soju.](/diabetes-story/chamisul-soju-bottle-illustration.jpg "For me back then, soju was a constant companion, and a poison I didn't understand.")
 
 My body grew heavier, more tired. It was then that my mother gave me a book.
 
-![A photo of the actual book given by the user's mother 24 years ago, titled 'The Anatomy of Pi-Water' in Korean.](/diabetes-story/3-pi-water-book-the-secret-of-pi-water.jpg "The book my mother gave me, 'The Anatomy of Pi-Water'.")
+![A photo of the actual book given by the user's mother 24 years ago, titled 'The Anatomy of Pi-Water' in Korean.](/diabetes-story/pi-water-book-the-secret-of-pi-water.jpg "The book my mother gave me, 'The Anatomy of Pi-Water'.")
 
 "Your diabetes is serious," she said. "The book says drinking a lot of this Pi-water can help." I remember feeling irritated. To me, it sounded like a meaningless nag. And the ultimate irony was that we'd had a Pi-water purifier in our home since 1996. "If this water is so great," I retorted, "why did I get diabetes in the first place?"
 
@@ -58,19 +58,19 @@ That mistake led me on a long, painful rollercoaster. It was a cycle of abuse an
 
 Even after narrowly avoiding amputation, my discipline was weak. The photos of my blood sugar readings in 2021 and 2022 show levels near 300. I had quit smoking and drinking, but I couldn't stop the binge-eating.
 
-![A side-by-side comparison of two blood glucose meter readings, one from 2021 showing 293 mg/dL and one from 2022 showing 318 mg/dL.](/diabetes-story/4-high-blood-sugar-readings-2021-2022.jpg "Proof of my continued neglect: blood sugar readings of 293 and 318, long after my 2018 crisis.")
+![A side-by-side comparison of two blood glucose meter readings, one from 2021 showing 293 mg/dL and one from 2022 showing 318 mg/dL.](/diabetes-story/high-blood-sugar-readings-2021-2022.jpg "Proof of my continued neglect: blood sugar readings of 293 and 318, long after my 2018 crisis.")
 
 So what about now? As of two months ago, I finally got serious. I am on a strict, controlled diet. I exercise. And I drink a minimum of 5 liters of Pi-water every single day.
 
-![A recent photo of a blood glucose meter showing a healthy reading of 89 mg/dL.](/diabetes-story/7-normal-fasting-blood-sugar-89-2025.jpg "My fasting blood sugar today, a result of strict discipline.")
+![A recent photo of a blood glucose meter showing a healthy reading of 89 mg/dL.](/diabetes-story/normal-fasting-blood-sugar-89-2025.jpg "My fasting blood sugar today, a result of strict discipline.")
 
-The diet and exercise are the foundation. That is the core reason for my current health. But it begs a question... How did I survive those 30 years of reckless living? How did I avoid the worst common diabetic complications: blindness, kidney failure?
+The diet and exercise are the foundation. That is the core reason for my current health. But it begs a question... How did I survive those 30 years of reckless living? How, with such high blood sugar, did I avoid the common diabetic complications: blindness, kidney failure?
 
 I believe the water has been my unsung guardian. Looking back, during the worst moments of my health, I was also the most neglectful in drinking it. In periods of stability, even with a bad diet, I was drinking it more consistently. I believe it was the fuel that allowed my body to endure the decades of damage.
 
-![A photo showing two Pi-water purifiers installed side-by-side in a kitchen setting.](/diabetes-story/5-two-pi-water-purifiers-in-use.jpg "At one point, my belief was so strong I had two purifiers running at once.")
+![A photo showing two Pi-water purifiers installed side-by-side in a kitchen setting.](/diabetes-story/two-pi-water-purifiers-in-use.jpg "At one point, my belief was so strong I had two purifiers running at once.")
 
-![A close-up of the current, single Pi-water purifier setup in the user's home.](/diabetes-story/6-current-pi-water-purifier-setup.jpg "My current setup. A daily, non-negotiable part of my life.")
+![A close-up of the current, single Pi-water purifier setup in the user's home.](/diabetes-story/current-pi-water-purifier-setup.jpg "My current setup. A daily, non-negotiable part of my life.")
 
 ### A Final Thought... A Humble Plea
 
@@ -82,6 +82,6 @@ I have learned, the hard way, that not all water is the same. I believe good wat
 
 I know some will remain skeptical, just as I was for 20 years. To those people, I truly understand. That is why I am preparing these stories with such care. I sincerely hope you don't have to learn through painful experience, as I did. Your health is the most important asset you will ever have. Please... take care of it.
 
-![A present-day photo of the user's foot, now healthy and intact, a symbol of recovery.](/diabetes-story/8-present-day-foot-photo-2025.jpg "My foot today, thankfully intact. A reminder of a lesson learned over 30 long years.")
+![A present-day photo of the user's foot, now healthy and intact, a symbol of recovery.](/diabetes-story/present-day-foot-photo-2025.jpg "My foot today, thankfully intact. A reminder of a lesson learned over 30 long years.")
 ***
 #livingwithdiabetes #bloodsugarcontrol #koreanhealth #piwater #healthjourney #truestory #benefitsofwater #naturalhealth #chronicillness #bloodsugardiet
