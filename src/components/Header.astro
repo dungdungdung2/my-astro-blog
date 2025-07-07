@@ -30,25 +30,8 @@ import HeaderLink from './HeaderLink.astro';
 				</svg>
 			</a>
 		</div>
-		<!-- Google Translate 위젯 -->
-		<div id="google_translate_element"></div>
 	</nav>
 </header>
-
-<!-- Google Translate 스크립트 1 -->
-<script type="text/javascript">
-function googleTranslateElementInit() {
-	new google.translate.TranslateElement({
-		pageLanguage: 'en',
-		includedLanguages: 'en,es,ar,ja,ko',
-		layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-	}, 'google_translate_element');
-}
-</script>
-
-<!-- Google Translate 스크립트 2 -->
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
 <style>
 	header {
 		margin: 0;
@@ -87,18 +70,6 @@ function googleTranslateElementInit() {
 	@media (max-width: 720px) {
 		.social-links {
 			display: none;
-		}
-	}
-	/* Google Translate 스타일 추가 */
-	#google_translate_element {
-		position: absolute;
-		right: 20px;
-		top: 15px;
-	}
-	@media (max-width: 720px) {
-		#google_translate_element {
-			position: static;
-			margin-top: 10px;
 		}
 	}
 </style>
