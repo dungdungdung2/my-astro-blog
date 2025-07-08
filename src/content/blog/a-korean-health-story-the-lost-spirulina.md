@@ -4,6 +4,8 @@ description: "This isn't a sales pitch—the product was discontinued. It's a tr
 pubDate: "2025-07-07"
 ---
 
+A quick note: I am not a native English speaker. This story has been crafted with the help of translators and AI to bridge the language gap. If you notice any awkward phrasing or errors, your feedback would be greatly appreciated. The experience, however, is 100% my own.
+
 Do you love Korea? If so, this story might be for you. If not... well, it might just be a curious tale you've never heard before.
 
 Let me be perfectly clear from the start: **This is not a promotion.** It's impossible for it to be. The product I'm about to discuss was officially discontinued in 2023. You can no longer buy it.
