@@ -59,6 +59,7 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image.src, Astro.url)} />
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-X1LF1W6640"></script>
 <script>
@@ -68,5 +69,10 @@ const { title, description, image = FallbackImage } = Astro.props;
 
 	gtag('config', 'G-X1LF1W6640');
 </script>
+
+<!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9792384116822417"
  crossorigin="anonymous"></script>
+
+<!-- Umami Analytics -->
+<script defer src="https://cloud.umami.is/script.js" data-website-id="e4d72ed1-dd57-4b4a-b647-a76e244e31af"></script>
