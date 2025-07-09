@@ -76,3 +76,35 @@ const { title, description, image = FallbackImage } = Astro.props;
 
 <!-- Umami Analytics -->
 <script defer src="https://cloud.umami.is/script.js" data-website-id="e4d72ed1-dd57-4b4a-b647-a76e244e31af"></script>
+
+<style>
+	/* 스크린샷 방지 (완전하지 않음) */
+	body {
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+
+	/* 인쇄 방지 */
+	@media print {
+		body { display: none !important; }
+	}
+</style>
+
+<script>
+	// 우클릭 방지
+	document.addEventListener('contextmenu', e => e.preventDefault());
+
+	// F12, Ctrl+Shift+I 방지
+	document.addEventListener('keydown', function(e) {
+		if (e.key === 'F12' || 
+				(e.ctrlKey && e.shiftKey && e.key === 'I') ||
+				(e.ctrlKey && e.shiftKey && e.key === 'J') ||
+				(e.ctrlKey && e.key === 'U')) {
+			e.preventDefault();
+		}
+	});
+</script>
