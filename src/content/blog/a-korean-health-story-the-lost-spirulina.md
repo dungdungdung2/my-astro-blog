@@ -2,7 +2,7 @@
 title: "A Korean Health Story: The Lost Spirulina and the Boxes I Can't Throw Away"
 description: "This isn't a sales pitch—the product was discontinued. It's a true story about a remarkable Korean spirulina, a personal discovery, and why I still keep four boxes of it, 8 years past their expiration date."
 pubDate: "2025-07-07"
-heroImage: '/spirulina-story/unboxed-spirulina-tablets-with-2017-date.jpg'
+heroImage: '/spirulina-story/present-day-hand-illustrating-past-discovery.jpg'
 ---
 
 A quick note: I am not a native English speaker. This story has been crafted with the help of translators and AI to bridge the language gap. If you notice any awkward phrasing or errors, your feedback would be greatly appreciated. The experience, however, is 100% my own.
