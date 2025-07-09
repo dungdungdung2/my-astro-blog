@@ -2,7 +2,7 @@
 title: "If a Luxury Korean Bra Costs $50, Is It Truly Luxury? The Reason This Brand Is Unknown."
 description: "A story spanning 30 years, about a shapewear brand my mother has worn for decades. It's a tale of misunderstood value, market prejudice, and the quiet power of true quality. This is not a product review; it's a piece of history."
 pubDate: "2025-07-09"
-heroImage: '/shapewear-story/worn-korean-all-in-one-shapewear-2.jpg'
+# heroImage: '/shapewear-story/worn-korean-all-in-one-shapewear-2.jpg'
 ---
 
 A quick note: I am not a native English speaker. This story has been crafted with the help of translators and AI to bridge the language gap. If you notice any awkward phrasing or errors, your feedback would be greatly appreciated. The experience, however, is 100% my own.
