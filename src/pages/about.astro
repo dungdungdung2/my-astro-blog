@@ -1,10 +1,11 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import BlogPost from '../layouts/BlogPost.astro';
 ---
 
-<Layout
+<BlogPost
 	title="About KoctoGame: My 27-Year Journey"
 	description="I am not a company. I am a single consumer who has spent nearly 30 years experiencing products that the world has overlooked. This is my story, and the reason KoctoGame exists."
+	pubDate={new Date('2025-07-09')}
 >
 	<div style="text-align: center; margin-bottom: 2rem;">
 		<h2 style="font-size: 1.5rem; font-weight: 600;">My story is not about a brand. It's about a hidden truth.</h2>
@@ -30,7 +31,7 @@ import Layout from '../layouts/Layout.astro';
 		<li><strong>Experience over Hype:</strong> I don't trust ads. I trust decades of use. All trust begins with undeniable, long-term proof of quality.</li>
 		<li><strong>Value over Price:</strong> I've learned that the most valuable things are often not the most expensive. My goal is to reveal how smart consumption can become your greatest asset.</li>
 		<li><strong>Honesty over Persuasion:</strong> I will not try to sell you anything. I will only share my experiences—the good, the bad, and the frustrating. The only engine for this community is your own informed judgment.</li>
-	</ol>
+	ol>
 
 	<p>KoctoGame is my archive, my journal, and my invitation to you. It's a place to discover things of true worth and connect with others who believe in a smarter way to live. This is the world I dream of... a world where value is judged not by its marketing, but by its proof.</p>
 
@@ -38,4 +39,4 @@ import Layout from '../layouts/Layout.astro';
 			<a href="/blog/" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Become the Smartest Consumer</a>
 			<p style="margin-top: 1.5rem;"><strong>How do I contact KoctoGame?</strong> <a href="mailto:koctogame@gmail.com">koctogame@gmail.com</a></p>
 	</div>
-</Layout>
+</BlogPost>
