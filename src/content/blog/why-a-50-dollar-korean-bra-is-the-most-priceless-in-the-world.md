@@ -22,8 +22,8 @@ These panties are from the same brand. Most of them were purchased between 1996 
 ![A collection of worn panties from the same Korean brand, still in usable condition after decades.](/shapewear-story/korean-shapewear-panty-25-years-collection1.jpg "A collection of well-worn comfortable shapewear panties.")
 ![More examples of the long-lasting underwear made in Korea that supports body confidence.](/shapewear-story/korean-shapewear-panty-25-years-collection2.jpg "Evidence of long-term use and quality craftsmanship made in Korea.")
 ![Another set of worn panties, demonstrating the brand's long-lasting value.](/shapewear-story/korean-shapewear-panty-25-years-collection3.jpg "The texture of a garment worn for more than two decades.")
-![A close-up of a tattered and unreadable label on a 25-year-old Korean panty.](/shapewear-story/worn-panty-label-after-25-years-1.jpg "After 25 years, the tag is illegible, but the product remains.")
-![Another example of a worn-out shapewear label, a testament to its long life and comfort.](/shapewear-story/worn-panty-label-after-25-years-2.jpg "The story of quality is told in the wear and tear of the label.")
+![A close-up of a tattered and unreadable label on a 25-year-old Korean panty.](/shapewear-story/worn-korean-panty-label-after-25-years-1.jpg "After 25 years, the tag is illegible, but the product remains.")
+![Another example of a worn-out shapewear label, a testament to its long life and comfort.](/shapewear-story/worn-korean-panty-label-after-25-years-2.jpg "The story of quality is told in the wear and tear of the label.")
 
 How long does your underwear last? Three years? Five? This is shapewear. It’s designed to compress and hold. For a garment under constant tension to endure for 15, or even 25 years... is something else entirely. This is the same all-in-one shapewear shown in the hero image, still being used by my mother.
 
