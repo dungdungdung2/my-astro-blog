@@ -16,10 +16,10 @@ I just brought this all-in-one shapewear from my mother’s bathroom, where it w
 
 This isn't a story to praise my mother's frugality. It's a story about the object itself.
 
-This is the same brand of underwear my mother currently wears. Most of the panties you see here were purchased between 1996 and 1999, making them well over 25 years old. The most recently purchased one is at least 15 years old. They were all originally pink, but time has washed away the color, leaving them almost white. My mother's frugality is a factor, of course, but no garment, no matter how well cared for, can endure for decades without exceptional durability. The labels inside are so worn from years of washing that they are now unreadable...
+These panties are from the same brand. Most of them were purchased between 1996 and 1999, making them well over 25 years old. The most recently purchased one is at least 15 years old. They were all originally pink, but time has washed away the color, leaving them almost white. My mother's frugality is a factor, of course, but no garment, no matter how well cared for, can endure for decades without exceptional durability. The labels inside are so worn from years of washing that they are now unreadable...
 
-![A gallery of authentic Korean panties, worn for over 25 years, showing faded color but incredible durability.](/shapewear-story/korean-shapewear-panty-25-years-lace.jpg "A 25-year-old panty, a symbol of true value.")
-![Another set of worn panties from the same Korean brand, still in usable condition after decades.](/shapewear-story/korean-shapewear-panty-25-years-collection1.jpg "A collection of well-worn comfortable shapewear panties.")
+![A Korean shapewear panty with lace detail, worn for over 25 years, faded from pink to white but still perfectly intact.](/shapewear-story/korean-shapewear-panty-25-years-lace.jpg "A 25-year-old panty, a symbol of true value.")
+![A collection of worn panties from the same Korean brand, still in usable condition after decades.](/shapewear-story/korean-shapewear-panty-25-years-collection1.jpg "A collection of well-worn comfortable shapewear panties.")
 ![More examples of the long-lasting underwear made in Korea that supports body confidence.](/shapewear-story/korean-shapewear-panty-25-years-collection2.jpg "Evidence of long-term use and quality craftsmanship made in Korea.")
 ![Another set of worn panties, demonstrating the brand's long-lasting value.](/shapewear-story/korean-shapewear-panty-25-years-collection3.jpg "The texture of a garment worn for more than two decades.")
 ![A close-up of a tattered and unreadable label on a 25-year-old Korean panty.](/shapewear-story/worn-panty-label-after-25-years-1.jpg "After 25 years, the tag is illegible, but the product remains.")

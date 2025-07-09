@@ -1,55 +1,41 @@
----
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
----
+<Layout
+	title="KoctoGame: A 27-Year Consumer's Guide to True Value"
+	description="Do you love Korea? Discover how to turn your daily consumption into your smartest asset, based on 30 years of real-life experience with hidden Korean masterpieces."
+>
+	<div style="text-align: center; margin-bottom: 2rem;">
+		<h2 style="font-size: 1.5rem; font-weight: 600;">Do you love Korea? If so, you've found a story you won't find anywhere else.</h2>
+	</div>
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<div style="text-align: center; margin-bottom: 2rem;">
-				<h2 style="font-size: 1.5rem; font-weight: 600;">Do you love Korea? If so, you'll want to pay attention.</h2>
-			</div>
+	<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center; margin-bottom: 2rem;">
+		What if the greatest products were the ones you've never heard of?
+	</h1>
 
-			<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center; margin-bottom: 2rem;">
-				What if the toothbrush, detergent, and cosmetics you use every day started paying you a salary?
-			</h1>
+	<p>For nearly 30 years, I have been a consumer of a handful of remarkable Korean products. Products so good, they inspire decades of loyalty without a single ad. Products so misunderstood, they've been silenced by market prejudice.</p>
 
-			<p>From the moment you open your eyes in the morning until you fall asleep at night, you are consuming. It's a lifelong cycle. Have you ever stopped to consider if there's a better, smarter way to do it?</p>
+	<blockquote style="border-left: 4px solid #ccc; padding-left: 1rem; margin-left: 0; font-style: italic;">
+				"I've been using only this for over 20 years."<br>
+				"A doctor warned of amputation... but this is what happened next."
+	</blockquote>
 
-			<blockquote style="border-left: 4px solid #ccc; padding-left: 1rem; margin-left: 0; font-style: italic;">
-				"I can't use anything else."<br>
-				"I've been using only this for over 10 years."
-			</blockquote>
+	<p>These are not marketing taglines. They are the beginnings of real stories—my stories.</p>
 
-			<p>Without a single ad or fancy packaging, some people remain loyal to one product for over a decade or two. What does this phenomenon, created voluntarily by some of the world's most discerning consumers in Korea, truly signify?</p>
+	<h3 style="font-size: 1.75rem; font-weight: bold; margin-top: 2rem;">KoctoGame is a record of my 27-year experiment in consumption.</h3>
 
-			<h3 style="font-size: 1.75rem; font-weight: bold; margin-top: 2rem;">KoctoGame begins with this 'real experience'.</h3>
+	<p>I am not here to sell you something new. I am here to share a philosophy: that your daily expenses, the money you already spend, can be transformed into your <strong>smartest source of income and well-being.</strong></p>
 
-			<p>We are not asking you to buy something new. Instead, we propose a way to transform your existing daily expenses into your <strong>smartest source of income</strong>.</p>
+		<p>This is possible through a combination of:</p>
+	<ul>
+		<li><strong>Uncommon Quality:</strong> Discovering products with a level of performance that makes all others obsolete.</li>
+		<li><strong>A Fairer System:</strong> Understanding how distribution profits can flow back to you, the consumer.</li>
+		<li><strong>Authentic Storytelling:</strong> Learning from real, long-term experiences, not from persuasive ads.</li>
+	</ul>
 
-			<ul>
-				<li><strong>A Difference in Quality:</strong> An unparalleled product performance that makes you forget all others after a single use.</li>
-				<li><strong>A Difference in Benefits:</strong> The distribution profits that once went to sellers are now returned directly to you, the consumer.</li>
-				<li><strong>A Difference in Opportunity:</strong> A new possibility that begins simply by sharing a great product you've experienced first-hand.</li>
-			</ul>
+	<p>This isn't a complex financial scheme. It's the most common-sense story of changing the way you think about the products already in your home.</p>
 
-			<p>This isn't a story you've never heard before. It's the most common-sense story of changing the paradigm of consumption that was already in your bathroom, your kitchen, and on your vanity.</p>
+	<h3 style="font-size: 1.75rem; font-weight: bold; margin-top: 2rem; text-align: center;">Ready to question everything you know about value?</h3>
 
-			<h3 style="font-size: 1.75rem; font-weight: bold; margin-top: 2rem; text-align: center;">Curious how your daily consumption can become your income?</h3>
-
-			<div style="text-align: center; margin-top: 1.5rem;">
-				<a href="https://www.koctogame.com/about/" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; margin-right: 10px;">Learn About Our Philosophy</a>
-				<a href="https://www.koctogame.com/blog/" style="text-decoration: none; background-color: #6c757d; color: white; padding: 10px 20px; border-radius: 5px;">Become the Smartest Consumer</a>
-			</div>
-
-		</main>
-		<Footer />
-	</body>
-</html>
+	<div style="text-align: center; margin-top: 1.5rem;">
+		<a href="/about" style="text-decoration: none; background-color: #343a40; color: white; padding: 12px 24px; border-radius: 5px; margin-right: 10px; font-weight: bold;">Read My Story</a>
+		<a href="/blog" style="text-decoration: none; background-color: #007bff; color: white; padding: 12px 24px; border-radius: 5px; font-weight: bold;">Explore the Proof</a>
+	</div>
+</Layout>
