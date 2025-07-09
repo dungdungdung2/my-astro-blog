@@ -2,7 +2,7 @@
 title: "My 30-Year War: A Doctor Warned of Amputation, But the Real Story Began in a Bathhouse"
 description: "A true, 30-year story of living with diabetes. It's a journey of regret, discovery, and a surprising guardian that protected me from the worst. This is a lesson I learned the hard way..."
 pubDate: "2025-07-08"
-heroImage: '/diabetes-story/diabetic-foot-infection-2018.jpg'
+# heroImage: '/diabetes-story/diabetic-foot-infection-2018.jpg'
 ---
 
 A quick note: I am not a native English speaker. This story has been crafted with the help of translators and AI to bridge the language gap. If you notice any awkward phrasing or errors, your feedback would be greatly appreciated. The experience, however, is 100% my own.
