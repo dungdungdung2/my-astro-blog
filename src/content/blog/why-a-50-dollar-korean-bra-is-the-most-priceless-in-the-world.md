@@ -10,7 +10,7 @@ Also, for an important reason that will become clear, I will not be revealing th
 
 ***
 
-![An all-in-one shapewear garment hanging on a hanger in a bathroom, looking clean but aged.](/shapewear-story/hero-korean-shapewear-all-in-one-15-years.jpg "A 15-year-old garment, still in use today.")
+![An all-in-one shapewear garment hanging on a hanger in a bathroom, looking clean but aged.](/shapewear-story/korean-comfortable-shapewear-all-in-one-15-years.jpg "A 15-year-old garment, still in use today.")
 
 I just brought this all-in-one shapewear from my mother’s bathroom, where it was hanging to dry after being washed. As you can see, the threads are worn... this garment is over 15 years old. My mother, now in her 80s, still wears it to maintain her posture, especially when she goes out to meet friends. The original pink color has faded, the fabric is thinning, and yet... it still functions.
 
